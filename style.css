@@ -1,0 +1,102 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #F7F7F7;
+  /* Old browsers */
+  background: -moz-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+}
+
+/** Header styles **/
+.header {
+  background-image: url(https://lh3.googleusercontent.com/1HMQhdIGeDvUb318k-VMnqa2KrhtR3ba74STwvSC6UbE2OoY7AeWeabbZ0ThJ3z7KvXXCw_DV58mkHpkUIAi2pG3xZVhCczVOIv4WxKX3afS93QypvQRhyAzC3NV0Prw2mJZdtFEM-sbOnCm09UzYryEqxUuC1kZe7mioDP1EEMu0EGd8iw0Ey3dTAvq-KEkaahaaiIgHrQr9SLr7Ep-LbO4xXSt5smf-DRe6JX4BxMN87tdAq6zOD4iPYODjPrNJJ3INo6WrVqYUatviRK-x1cNKotPFusUx-PhJ7KX0YJ_GpQVZL6dGAfq-uK-L-lZSHir7VgQz5dg9jrFp4l6q3e-tRuDx7P35fUv3WIl6eMDS-9YFUyzCWkxgal-dBvJfcpufz6kJRKx44yjU1SbTeQzuDw_ErbFhyvVSLYMXZEOKf8AXa-z3L-Tx97-cEBI-t5Nxc8Fhn1yOnECCq0wxlQk3QdpaTEgs1hTg3yq8PdFK3Sx8yfMpp-1JBw_TD1TJEB3koqVFkERnt60y7WwyYCdR_ug_8Yl2HH7AI0gaiaSnOJomGHwv2X31O-GXOzL6Tfzn7-uP9z6ZIJkLO4MspvzM1qK888uH6HcjB4wMseMfUFEfiU23PExgLon6Q=s263-no);
+  height: 350px;
+  background-repeat: no-repeat;
+  background-size: 350px 350px;
+  background-position: 1300px 80px;
+}
+
+.intro {
+  margin: 40px auto;
+  padding: 20px 30px 40px 30px;
+  background-color: #FFFFFFFFF;
+  overflow: auto;
+  width: 75%;
+  border-radius: 4px;
+  align-self: center;
+}
+
+.intro p {
+  color: #938E89;
+  text-align: center;
+  line-height: 24px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.spectrum div {
+  font: inherit;
+  padding: 0 20px;
+  color: #FFFFFF;
+  overflow: auto;
+  opacity: 0.9;
+}
+
+.spectrum p {
+  color: #FFFFFF;
+  text-align: left;
+}
+
+/* About Me */
+.Favorites {
+  background-color: #c6b36b;
+}
+
+.Hobby {
+  background-color: #cc4d53;
+}
+
+.Sports {
+  background-color: #b0c66b;
+}
+
+/* Typography */
+h1 {
+  color: #41292C;
+  font-family: 'Srisakdi', cursive;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 80%;
+}
+
+h2 {
+  color: #E4BB97;
+  font-family: 'Charmonman', sans-serif;
+  font-size: 28px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #41292C;
+  font-family: 'Dancing Script', cursive;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: .2em;
+}
+
+/* Page elements */
+p {
+  color: #444444;
+  line-height: 32px;
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+  font-weight: 100;
+}
